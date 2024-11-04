@@ -8,7 +8,9 @@
 * Infinity mode has bugs, at exit maybe mp4 will be broken -> please use default mode
 
 # About
-nRecorder - ScreenRecorder where video consists of screenshots
+* nRecorder - ScreenRecorder where video consists of screenshots
+* nRecord saves videos in mp4
+* nRecord records video in 30fps
 
 # Need to install
 * python3 and pip
@@ -44,4 +46,4 @@ cd nRecorder
 * * ```
     python3 nrecord.py -h
     ```
-    
+
