@@ -3,7 +3,7 @@
 ![](https://github.com/user-attachments/assets/e96d1286-b9d9-465b-b885-8fd0ff7719b6)
 
 # DISCLAIMER
-* nRecorder eat a lot of memory, i made nRec. for experemental
+* nRecorder eat a lot of CPU, i made nRec. for experemental
 * nRecorder work only on X11
 * Infinity mode has bugs, at exit maybe mp4 will be broken -> please use default mode
 
