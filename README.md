@@ -37,7 +37,7 @@ cd nRecorder
 * Infinity mode
 * * check DISCLAIMER in top
     ```
-    python3 nrecord.py -inf
+    python3 nrecord.py -rinf
     ```
     at this mode u record infinity time, until u will want to exit
     
