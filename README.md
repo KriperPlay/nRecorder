@@ -40,7 +40,7 @@ cd nRecorder
     python3 nrecord.py -rinf
     ```
     at this mode u record infinity time, until u will want to exit
-    
+    exit = crtl+c
     check DISCLAIMER
 * Help menu
 * * ```
